@@ -1,35 +1,14 @@
-# Welcome to [Astro](https://astro.build)
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# [Astro](https://astro.build) + [Stable Difussion](https://replicate.com/stability-ai/stable-diffusion) (via Replicate)
 
 ![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
 
-## 🚀 Project Structure
+## 🚀 Getting Started
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
+1. Clone this repository and install dependencies with `npm` install.
+2. Create a [Replicate](https://replicate.com/) free account and get your API token from https://replicate.com/account.
+3. Copy `.env.example` as `.env` and paste your Replicate API token there.
+4. Start the project locally with `npm run dev`, or deploy it to your favorite server.
+5. Have fun! ✨
 
 ## 🧞 Commands
 
@@ -46,4 +25,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [Astro's documentation](https://docs.astro.build) or jump into their [Discord server](https://astro.build/chat). You can also follow [Maxi on Twitter](https://twitter.com/charca).
