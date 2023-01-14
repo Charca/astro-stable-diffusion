@@ -1,6 +1,7 @@
-# [Astro](https://astro.build) + [Stable Difussion](https://replicate.com/stability-ai/stable-diffusion) (via Replicate)
+# [Astro](https://astro.build) + Stable Difussion (via [Replicate](<(https://replicate.com/stability-ai/stable-diffusion)>))
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+![Demo](https://user-images.githubusercontent.com/44473/212442872-302cf8e2-d7a8-4962-a714-957ebcf6c71e.png)
+
 
 ## 🚀 Getting Started
 
