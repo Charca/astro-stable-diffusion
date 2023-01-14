@@ -1,4 +1,4 @@
-# [Astro](https://astro.build) + Stable Difussion (via [Replicate](<(https://replicate.com/stability-ai/stable-diffusion)>))
+# [Astro](https://astro.build) + Stable Difussion (via [Replicate](https://replicate.com/stability-ai/stable-diffusion))
 
 ![Demo](https://user-images.githubusercontent.com/44473/212442872-302cf8e2-d7a8-4962-a714-957ebcf6c71e.png)
 
