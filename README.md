@@ -5,7 +5,7 @@
 
 ## 🚀 Getting Started
 
-1. Clone this repository and install dependencies with `npm` install.
+1. Clone this repository and install dependencies with `npm install`.
 2. Create a [Replicate](https://replicate.com/) free account and get your API token from https://replicate.com/account.
 3. Copy `.env.example` as `.env` and paste your Replicate API token there.
 4. Start the project locally with `npm run dev`, or deploy it to your favorite server.
