@@ -2,7 +2,6 @@
 
 ![Demo](https://user-images.githubusercontent.com/44473/212442872-302cf8e2-d7a8-4962-a714-957ebcf6c71e.png)
 
-
 ## 🚀 Getting Started
 
 1. Clone this repository and install dependencies with `npm install`.
